@@ -100,3 +100,8 @@ footer {
     flex: 33.33%;
     padding: 5px;
 }
+footer {
+    display: inline-flex;
+    flex: 33.33%;
+    padding: 10px;
+}
